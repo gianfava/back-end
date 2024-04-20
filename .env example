@@ -1,4 +1,4 @@
 
 ////DATABASE_URL="mongodb+srv://gian:ZVDdu8ZSmV2vkqDD@cluster0g.z8jhtse.mongodb.net/loja"
 
-DATABASE_URL="mongodb://localhost:27017/loja"
+//DATABASE_URL="mongodb://localhost:27017/loja"
